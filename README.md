@@ -22,4 +22,4 @@ The script requires the following Python libraries:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/search-reward-bot.git
+   git clone https://github.com/Gayan-Bandara/search-reward-bot.git
